@@ -1,0 +1,2 @@
+node chatmanager.js
+PAUSE
